@@ -20,7 +20,7 @@ export default function App() {
 
      <Text style={styles.Text}>테스트 1</Text>
      <Text style={{...styles.Tex , color: 'green'}}>테스트 2</Text>
-
+     <Text style={{...styles.Tex , color: 'red'}}>테스트 3</Text>
     </View>
   );
 }
